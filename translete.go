@@ -29,7 +29,7 @@ func init() {
 			break
 		}
 	}
-
+	 
 	// 加载字典表
 	collter.Fileload(dictpath)
 }
